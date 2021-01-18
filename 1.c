@@ -10,4 +10,5 @@ int main()
 	greet();
 	// printf("hello!\n");
 	printf("hell!\n");
+	printf("goodbye!\n");
 }
