@@ -11,6 +11,11 @@ void morning()
 	printf("have some milk?\n");
 }
 
+void internetModification()
+{
+	printf("I'm the hacker!\n");	
+}
+
 int main()
 {
 	greet();
